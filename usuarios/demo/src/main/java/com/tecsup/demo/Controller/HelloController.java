@@ -1,4 +1,4 @@
-package com.tecsup.demo.	Controller;
+package com.tecsup.demo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
