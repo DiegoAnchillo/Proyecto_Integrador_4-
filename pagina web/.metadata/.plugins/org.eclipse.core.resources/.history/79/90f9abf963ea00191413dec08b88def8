@@ -1,3 +1,0 @@
-server.port=8085
-spring.mvc.view.prefix=/WEB-INF/vista/
-spring.mvc.view.suffix=.jsp
